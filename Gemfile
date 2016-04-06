@@ -11,6 +11,6 @@ gem 'json'
 gem 'unicorn'
 
 gem 'pg'
-gem 'beacon'
+
 gem 'zero_push'
 gem 'foreman'
